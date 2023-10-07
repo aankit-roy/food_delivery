@@ -44,6 +44,7 @@ class _StartScreenState extends State<StartScreen> {
                  Text("Taking Order For Delivery",
                  style: TextStyle(fontSize: 50,
                  fontWeight: FontWeight.bold,
+
                    color: Colors.white
                  ),),
                  SizedBox(
